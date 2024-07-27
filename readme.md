@@ -5,14 +5,20 @@ This project uses Flask and HTML to create a book recommendation system. It comb
 Features
 
 Input Form: Users can enter book names via a web form.
+
 Database Access: The system retrieves book info from a digital database file.
+
+
 
 Recommendations:
 
 Top 50 Books: Displays popular books.
 Search: Helps users find specific books.
 
+
+
 Setup
+
 Clone this repository.
 Install dependencies (Flask, etc.).
 Run the Flask app locally.
